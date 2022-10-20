@@ -1,3 +1,5 @@
+//1. To convert the input temperature value in Fahrenheit to Celsius.
+
 import java.util.Scanner;
 
 class Fahrenheit_to_Celsius

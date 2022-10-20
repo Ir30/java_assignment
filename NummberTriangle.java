@@ -1,3 +1,11 @@
+/*
+ * 2. Program to generate a Triangle. eg:
+        1
+        22
+        333
+        4 4 4 4 
+ */
+
 import java.util.Scanner;
 
 public class NummberTriangle 
